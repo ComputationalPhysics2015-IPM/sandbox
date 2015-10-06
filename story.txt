@@ -1,6 +1,13 @@
 1. Only one sentence or phrase per line.
 2. You can add a new line, edit or move a line, but you can not delete a line.
 
+<<<<<<< HEAD
 She took her binocular and looked through it. 
 Far in the blue sky she saw a colourful balloon.
 
+=======
+She took her binocular and looked through it.
+She found a group of elephants. It looked that they were looking for water.
+She also saw a group of lions.
+>>>>>>> 672f6e830e33ebbbaffd74914c4027228991dbb0
+wow, she became excited.
