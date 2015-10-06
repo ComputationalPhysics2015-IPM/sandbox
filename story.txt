@@ -2,3 +2,5 @@
 2. You can add a new line, edit or move a line, but you can not delete a line.
 
 She took her binocular and looked through it. 
+Far in the blue sky she saw a colourful balloon.
+
